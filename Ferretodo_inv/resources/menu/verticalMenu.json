@@ -1,0 +1,46 @@
+{
+  "menu": [
+    {
+      "url": "/",
+      "name": "Home",
+      "icon": "menu-icon tf-icons bx bx-home-circle",
+      "slug": "pages-home"
+    },
+    {
+      "url": "/products",
+      "name": "Productos",
+      "icon": "menu-icon tf-icons bx bx-wrench",
+      "slug": "pages-products"
+    },
+    {
+      "url": "/Origins",
+      "name": "Tiendas",
+      "icon": "menu-icon tf-icons bx bx-home-smile",
+      "slug": "pages-Origins"
+    },
+    {
+      "url": "/types",
+      "name": "Tipo de Producto",
+      "icon": "menu-icon tf-icons bx bx-cabinet",
+      "slug": "pages-types"
+    },
+    {
+      "url": "/reports",
+      "name": "Reportes",
+      "icon": "menu-icon tf-icons bx bx-bell",
+      "slug": "pages-reports"
+    },
+    {
+      "url": "/backups",
+      "name": "Backups",
+      "icon": "menu-icon tf-icons bx bx-check-shield",
+      "slug": "pages-backups"
+    },
+    {
+      "url": "/users",
+      "name": "Usuarios",
+      "icon": "menu-icon tf-icons bx bx-user-circle",
+      "slug": "pages-users"
+    }
+  ]
+}
